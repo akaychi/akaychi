@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akaychi
 - 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning AI/ML, DevSecOps
-- 💞️ I’m open to collaborate on DevOps Projects 
+- 💞️ I’m open to collaborate on DevOps Projects, great team and exciting opportunities
 - 📫 You can reach me on ekechi.ajoku@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
